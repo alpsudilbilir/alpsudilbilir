@@ -1,7 +1,7 @@
 
 ![giphy](https://user-images.githubusercontent.com/87194129/196182078-bdf863a9-354b-45f5-8394-21fad2d37a0d.gif)
 
-<h1 align="left">I'm Alpsu</h1>
+<h1 align="left">I'm Alpsu 👋🏻 </h1>
 
 <h3 align="left">I’m a junior ios developer with over one year of iOS development experience.
 I love to create apps that people just love to use.</h3>
