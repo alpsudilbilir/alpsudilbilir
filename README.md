@@ -38,7 +38,7 @@ _Listen millions of songs_
 
 Spotify clone is an iOS app which uses Spotify Web API to show and play, albums, artists, songs and playlists.
 
-[Repo](https://github.com/alpsudilbilir/watchflix](https://github.com/alpsudilbilir/spotify-clone)
+[Repo](https://github.com/alpsudilbilir/spotify-clone)
 
 ![Spotify](https://user-images.githubusercontent.com/87194129/196221084-8a0f8fba-573f-4c02-bd51-5cdcbc4bf256.png)
 
