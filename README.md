@@ -30,11 +30,20 @@ _Listen millions of songs_
 
 Spotify clone is an iOS app which uses Spotify Web API to show and play, albums, artists, songs and playlists.
 
+[Repo]([https://github.com/alpsudilbilir/watchflix](https://github.com/alpsudilbilir/spotify-clone))
 
-
+![Spotify](https://user-images.githubusercontent.com/87194129/196221084-8a0f8fba-573f-4c02-bd51-5cdcbc4bf256.png)
 
 ## Fire Chat
 
+_Not better than whatsapp (For now)_
+
+Firechat is an instant messaging app. Built with SwiftUI. Powered by Firebase.
+
+![firechatLOGO-modified (1)](https://user-images.githubusercontent.com/87194129/196225001-c2267b97-b0a5-4b7b-a8cd-d1015c8bd717.png)
+
+
+![Firechat](https://user-images.githubusercontent.com/87194129/196223102-01b95c14-9317-47f6-8b13-81a220cbd26f.png)
 
 
 ## Weather App
