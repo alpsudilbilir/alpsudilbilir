@@ -5,13 +5,18 @@
 <h3 align="left">I’m a junior ios developer with over one year of iOS development experience.
 I love to create apps that people just love to use.</h3>
 
+<h3 align="left">Reach me:</h3> 📫 alpsudilbilir@gmail.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alpsudilbilir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alpsudilbilir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alpsudilbilir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alpsudilbilir" height="30" width="40" /></a>
 </p>
 
-To check the apps that i build just scroll down 👇
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<h3 align="left">To check the apps that I have build just scroll down 👇</h3>
 
 # Watchflix
 ![Icon-App-40x40@3x-modified](https://user-images.githubusercontent.com/87194129/196199992-54117615-a42f-4206-b9ac-164d2564b850.png)
