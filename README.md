@@ -3,7 +3,7 @@
 
 <h1 align="left">I'm Alpsu 👋🏻 </h1>
 
-<h3 align="left">I’m a junior ios developer with over one year of iOS development experience.
+<h3 align="left">I’m an iOS developer.
 I love to create apps that people just love to use.</h3>
 
 <h3 align="left">Reach me:</h3> 📫 alpsudilbilir@gmail.com
